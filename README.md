@@ -1,0 +1,1 @@
+This is a directory for an intial GIT project - Manish - Aug 10, 2023
